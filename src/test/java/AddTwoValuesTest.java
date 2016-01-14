@@ -12,7 +12,6 @@ import static org.junit.Assert.assertEquals;
  * Created by kate on 1/12/16.
  */
 
-
 public class AddTwoValuesTest {
 
     @Before
